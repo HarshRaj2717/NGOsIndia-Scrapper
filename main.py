@@ -25,8 +25,8 @@ def single_ngo_scrapper(driver: webdriver.Chrome, state_name: str, ngo_name: str
         By.CSS_SELECTOR, 'div.npos-postcontent:nth-child(3) > p:nth-child(1)').text
 
     # Scrapping only animal related NGOs
-    # if 'animal' not in all_cur_data.lower():
-    #     return
+    if 'animal' not in all_cur_data.lower():
+        return
 
     all_cur_data = all_cur_data.split('\n')
     for i in all_cur_data:
