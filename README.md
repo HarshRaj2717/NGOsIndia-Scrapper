@@ -2,7 +2,7 @@
 
 A web scrapper to scrape data about animal help/rescue NGOs in India. (Scrapping source website: https://ngosindia.org)
 
-**This branch only scrapes animal related NGOs. Use master branch to scrape all types of NGOs.**
+***This branch only scrapes animal related NGOs. Use master branch to scrape all types of NGOs.***
 
 ## Usage
 
