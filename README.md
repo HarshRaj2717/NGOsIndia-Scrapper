@@ -1,6 +1,6 @@
 # NGOsIndia-Scrapper
 
-A web scrapper to scrape data about animal help/rescue NGOs in India. (Scrapping source website: https://ngosindia.org)
+A web scrapper to scrape data about NGOs in India. (Scrapping source website: https://ngosindia.org)
 
 ## Usage
 
